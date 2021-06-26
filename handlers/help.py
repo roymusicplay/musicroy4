@@ -18,6 +18,7 @@ async def help_(client: Client, message: Message):
 - `/end` to stop the streaming of song 
 - `/pause` to pause the stream 
 - `/resume` to resume the playback. 
+- `/search` to search dorect in yt
 - Inline search is also supported.""")
 
 @Client.on_message(
@@ -34,5 +35,6 @@ async def help(client: Client, message: Message):
 - `/skip` to skip current song 
 - `/end` to stop the streaming of song 
 - `/pause` to pause the stream 
-- `/resume` to resume the playback. 
+- `/resume` to resume the playback
+- `/search` to search dorect in yt
 - Inline search is also supported.""")
