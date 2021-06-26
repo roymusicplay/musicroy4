@@ -11,9 +11,9 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Dear {message.from_user.first_name}!
 
-😁 I am KINGBOT Music Player. 
+😁 I am  Music Player. 
 
-😅Currently you are using KINGBOT MUSIC PREMIUM VERSION! 😳
+😅Currently you are using MUSIC PREMIUM VERSION! 😳
 
 🥳 I can play music in your Telegram Group's Voice Chat😉
 
@@ -49,12 +49,12 @@ Regrards [KINGBOT](https://t.me/KINGBOTOFFICIAL)
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⭐KINGBOT MUSIC PLAYER IS ALWAYS ACTIVE!!⭐**""",
+      await message.reply_text("""**⭐MUSIC PLAYER IS ALWAYS ACTIVE!!⭐**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/KINGBOTOFFICIAL")
+                        "⚡ Support⚡", url="https://t.me/KINGBOTOFFICIAL")
                 ]
             ]
         )
