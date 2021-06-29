@@ -436,7 +436,7 @@ async def play(_, message: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🙃 Flood Wait Error 🙃  \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @kingbot_Music_Bot_Assistant to your Group and try again</b>",
+                                  "\n\nOr manually add kingbot music Assistant to your Group and try again</b>",
                               )
                               pass
     try:
@@ -476,7 +476,7 @@ async def play(_, message: Message):
         views = results[0]["views"]
 
     except Exception as e:
-        await lel.edit("Song not found.Try another song or maybe spell it properly.")
+        await lel.edit("Song not found.Try another song or maybe spell it properly, check your spelling 🙂")
         print(str(e))
         return
 
@@ -492,7 +492,7 @@ async def play(_, message: Message):
                    InlineKeyboardButton(
                        text="⚡ Support ⚡", url='https://t.me/KINGBOTOFFICIALCHAT'),
                        InlineKeyboardButton(
-                        text="Watch On YouTube 🎬", url=f"{url}")
+                        text="YouTube 🎬", url=f"{url}")
                 ],
                 [       
                     InlineKeyboardButton(
