@@ -41,11 +41,11 @@ def song(client, message):
 
     except Exception as e:
         m.edit(
-            "**KINGBOT**:❌ Found Nothing.\n\nTry another keywork or maybe spell it properly."
+            "**❌ Found Nothing.\n\nTry another keywork or maybe spell it properly.**"
         )
         print(str(e))
         return
-    m.edit("**KINGBOT**:Downloading the song by @KINGBOTOFFICIAL ...")
+    m.edit("**Downloading the song by @KINGBOTOFFICIAL ...**")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
