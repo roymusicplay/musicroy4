@@ -1,4 +1,4 @@
-<h1 align="centre">©️ KINGBOT Music Bot 🎶</h1>
+<h1 align="centre">©️ ABHINAS Music Bot 🎶</h1>
 
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
@@ -20,9 +20,9 @@ Get STRING_NAME from here only otherwise not work:
 
 ### CONTACT SUPPORT
 
-https://t.me/KINGBOTOFFICIAL
+https://t.me/abhinasroy
 
-https://t.me/KINGBOTOFFICIALCHAT
+https://t.me/DOSTI_GROUP_1234
 
 ### Mandatory Vars.
 
