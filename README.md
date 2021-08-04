@@ -6,7 +6,7 @@
 <h3 align="centre"> Heroku </h4>
 Fork and Deploy if u have github account. Do not forget to give star 🌟
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/roymusicplay/musicroy4)
 
 ### Premimun Version ( without watermark)
 
