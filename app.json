@@ -1,5 +1,5 @@
 {
-    "name": "MusicBot",
+    "name": "musicbot4",
     "description": "An Open-source PyTgCalls based Pyrogram bot to play music in voice chats",
     "keywords": [
       "telegram",
@@ -7,7 +7,8 @@
       "pytgcalls",
       "productivity"
     ],
-    "repository": "https://github.com/kartikrajofficial/MusicBot",
+    "repository": "https://github.com/roymusicplay/musicroy4"
+",
     "stack": "container",
     "env": {
       "API_ID": {
@@ -28,7 +29,7 @@
       },
       "BOT_NAME": {
         "description": "Your Bot Name. By default it is KINGBOT",
-        "value": "KINGBOT"
+        "value": "ABHINAS"
       },
       "SUDO_USERS": {
         "description": "List of ID of those who can pause, stop and clear queue,separated by space.",
