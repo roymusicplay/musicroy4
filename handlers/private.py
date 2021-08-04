@@ -17,26 +17,26 @@ async def start(_, message: Message):
 
 🥳 I can play music in your Telegram Group's Voice Chat😉
 
-Developed by ⚡ @Kartikrajofficial ⚡
+Developed by ⚡ @abhinasroy ⚡
 
 My commands - type  /help to get commands, which work in grp
 
 Thanks for using .
 
-Regrards [KINGBOT](https://t.me/KINGBOTOFFICIAL)
+Regrards [KINGBOT](https://t.me/abhinasroy)
 **
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 DEPLOY LINK🛠", url="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkartikrajofficial%2FMusicBot&template=https%3A%2F%2Fgithub.com%2Fkartikrajofficial%2FMusicBot")
+                        "🛠 Father 🛠", url="https://t.me/abhinasroy")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Support Group", url="https://t.me/KINGBOTOFFICIALCHAT"
+                        "💬 Support Group", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/KINGBOTOFFICIAL"
+                        "🔊 Channel", url="https://t.me/MOVIE_CHANNEL_1234"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -54,7 +54,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Support⚡", url="https://t.me/KINGBOTOFFICIAL")
+                        "⚡ Support⚡", url="https://t.me/DOSTI_GROUP_1234")
                 ]
             ]
         )
